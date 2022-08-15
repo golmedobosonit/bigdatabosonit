@@ -1,0 +1,12 @@
+He realizado el ejercicio 1 y 2 del día 1.
+
+En el primer ejercicio he tenido problemas con vmwave a la hora de compartir carpeta, por lo que he usado como
+máquina virtual VM Virtual Box (en el que tampoco tenía carpeta compatida y he tenido que arrastrar los archivos
+del host a la VM).
+
+He usado los comandos indicados en el ejercicio, aunque en alguna ocasión no funcionaba (quizás fuese fallo mío),
+y he usado los comandos "hdfs dfs QUERY/ORDEN"
+
+En el ejercicio dos, he usado MapReduce y he comprobado las palabras totales contadas para realizar el mapeo, me
+ha llamado mucho la atención, ya que en mi formación académica, llegué a realizar un "cuentapalabras" en PySpark
+usando RDDs.
